@@ -68,4 +68,3 @@ The username:art ,the pasword:art.
 git clone https://github.com/FatjonaMurrani/artstyle-classifier.git
 cd artstyle-classifier
 
-
